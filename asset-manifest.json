@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/szhosan/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/szhosan/goit-react-hw-01-components/static/js/main.db7a8db5.js",
+    "main.css": "/szhosan/goit-react-hw-01-components/static/css/main.a84afc8f.css",
+    "main.js": "/szhosan/goit-react-hw-01-components/static/js/main.436e197c.js",
     "static/js/787.84e13687.chunk.js": "/szhosan/goit-react-hw-01-components/static/js/787.84e13687.chunk.js",
     "index.html": "/szhosan/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/szhosan/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.db7a8db5.js.map": "/szhosan/goit-react-hw-01-components/static/js/main.db7a8db5.js.map",
+    "main.a84afc8f.css.map": "/szhosan/goit-react-hw-01-components/static/css/main.a84afc8f.css.map",
+    "main.436e197c.js.map": "/szhosan/goit-react-hw-01-components/static/js/main.436e197c.js.map",
     "787.84e13687.chunk.js.map": "/szhosan/goit-react-hw-01-components/static/js/787.84e13687.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.db7a8db5.js"
+    "static/css/main.a84afc8f.css",
+    "static/js/main.436e197c.js"
   ]
 }
