@@ -18,7 +18,7 @@ function FriendList({ friends }) {
   );
 }
 
-FriendListItem.propTypes = {
+FriendList.propTypes = {
   friends: PropTypes.arrayOf(PropTypes.object),
 };
 
