@@ -48,13 +48,13 @@
   border: 1px solid rgb(194, 194, 194);
 }
 
-.label{
-    margin-top: 15px;
-    margin-bottom: 5px;
+.label {
+  margin-top: 15px;
+  margin-bottom: 5px;
 }
 
-.quantity{
-    margin-bottom: 15px;
-    font-size: 17px;
-    font-weight: 500;
+.quantity {
+  margin-bottom: 15px;
+  font-size: 17px;
+  font-weight: 500;
 }
